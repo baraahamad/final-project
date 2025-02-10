@@ -1,0 +1,1 @@
+This Travel App serves as the final project for Udacity's Front-End Web-Developer Nanodegree and is a demonstration of the cumulative information learned over the length of the course and the projects.
